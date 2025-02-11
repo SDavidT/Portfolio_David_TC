@@ -120,7 +120,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://github.com/SDavidT/Gym_Member_Registry_App"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
